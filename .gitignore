@@ -36,8 +36,7 @@ build/
 ### VS Code ###
 .vscode/
 .idea/
-target/
-*.iml
+
 
 ### Mac OS ###
 .DS_Store
